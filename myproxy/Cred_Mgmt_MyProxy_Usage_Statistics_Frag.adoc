@@ -14,12 +14,14 @@ details. You can see the Globus Usage Statistics policy
 
 xref:../../Usage_Stats#usagestats[here1].
 
-xref:{docbase}}/Usage_Stats#usagestats[here2].
+xref:{docroot1}/Usage_Stats#usagestats[here2].
 
 <<../../Usage_Stats#usagestats,here3>>.
 
-<<{docbase}/Usage_Stats#usagestats,here4>>.
+<<{docroot1}/Usage_Stats#usagestats,here4>>.
 
-xref:{docbase2}}/Usage_Stats#usagestats[here5].
+xref:{docroot2}/Usage_Stats#usagestats[here5].
 
-<<{docbase2}/Usage_Stats#usagestats,here6>>.
+<<{docroot2}/Usage_Stats#usagestats,here6>>.
+
+<</Usage_Stats#usagestats,here7>>.
